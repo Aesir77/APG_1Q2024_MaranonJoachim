@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7F49D5-F677-D5D9-218F-164836E564D3}|Assembly-CSharp.csproj|C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7F49D5-F677-D5D9-218F-164836E564D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\Assets\\Scripts\\Environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\ciit\\documents\\github\\week9\\week9\\assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Environment.cs",
+              "DocumentMoniker": "C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\Assets\\Scripts\\Environment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Environment.cs",
+              "ToolTip": "C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\Assets\\Scripts\\Environment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Environment.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:30:57.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:25:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\Assets\\Scripts\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test.cs",
+              "ToolTip": "C:\\Users\\CIIT\\Documents\\GitHub\\Week9\\Week9\\Assets\\Scripts\\Test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T02:02:46.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
